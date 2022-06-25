@@ -11,5 +11,4 @@ def div_con(x):
             p = int(check)
             string.append(int(check))
     result = sum(number)-sum(string)
-    print(result)
     return result
