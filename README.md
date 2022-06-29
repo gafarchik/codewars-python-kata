@@ -1,3 +1,3 @@
 # codewars-python-kata
 
-<svg>https://www.codewars.com/users/gafarchik/badges/large</svg>
+<img src="https://www.codewars.com/users/gafarchik/badges/large">
